@@ -1,7 +1,5 @@
 # GPNETO - IMC APP
 
-Sistema de Cadastro de Lista de Compras para Supermercado.
-
 <div style="text-align: center">
 <table border="1">
     <tr>
