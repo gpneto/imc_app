@@ -9,9 +9,3 @@
         <td><img src="https://github.com/gpneto/imc_app/raw/master/gifs_readme/app_imc.gif" width="350"/></td>
     </tr>
 </table>
-
-
-Primeiro é preciso Cadastrado os Produtos, depois as compras.
-
-   
-   
